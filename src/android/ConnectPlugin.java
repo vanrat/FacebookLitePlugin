@@ -192,7 +192,7 @@ public class ConnectPlugin extends CordovaPlugin {
         	
         }
 
-        return pr;
+        return true;
     }
 
     @Override
